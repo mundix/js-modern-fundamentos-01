@@ -15,7 +15,7 @@ let arregloCosas = [
     1 + 2,
     function(){},
     ()=> {}, //Landa Function o de flecha 
-    {a:1},
+    {a:1}, 
     ['X', 'Mega Man', 'Zero', 'Dr. Light',[
         'Dr. Willy',
         'Woodman'
