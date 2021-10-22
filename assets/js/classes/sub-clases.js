@@ -48,6 +48,7 @@ class Persona {
     }
 }
 
+// Herencia , como se exteiende y como se accesa
 class Heroe extends Persona{
 
     clan = 'sin clan';
